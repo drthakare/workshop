@@ -1,0 +1,57 @@
+print ("i'am alive")
+print ("i'm alive")
+1
+1+3
+1+3*2
+type(1+3*2)
+type(1+3*2)
+type(1+3*2.0)
+true
+TRUE
+TRUE
+True
+False
+type(True)
+type(1+3*2.0)
+1+3*2.0
+True
+True == False
+False == False
+False
+"aadfkl"
+type("aadfkl")
+type("aaa")
+"aaa" + "bbb"
+type ("aaa" + "bbb")
+"aaa" [0]
+"abc"[0]
+input("what is your name?"
+)
+input ("what is your name?")
+type(input("what is your name?"))
+"you'r my best frein"
+'you'r my best friend'
+'you\'r my best friend'
+type ( 1+1)
+type (1)
+"Conner".ipynb_checkpoints/
+(1, 3)
+type (1, 3)
+type((1, 3))
+("Connor", 1,2,, True)[0]
+("Connor", 1, 2, True)[0]
+("Connor", 1, 2, True)[2]
+("Connor", 1, 2, True)[4]
+("Connor", 1, 2, True)[3]
+type ([0,1,2])
+[0,1,2]
+[0,1,2, dog]
+[0,1,2, "do"g]
+[0,1,2, "dog"]
+%hist
+%hist?
+%hist
+%hist ?
+%hist?
+history.txt
+%history -f history.txt
